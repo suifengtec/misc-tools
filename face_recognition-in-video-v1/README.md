@@ -19,7 +19,7 @@ pip install face_recognition
 
 ## 截图
 
-![/screenshot/1.gif](/screenshot/1.gif)
+![./screenshot/1.gif](./screenshot/1.gif)
 
 ## 测试与使用
 

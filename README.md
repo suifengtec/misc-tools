@@ -7,5 +7,6 @@
 Python 3.x + cv2/cv3
 
 ## face_recognition-in-video-v1
+
 识别标记,并截取视频中的人脸。
 
